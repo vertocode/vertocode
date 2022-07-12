@@ -18,7 +18,7 @@ I am a curious person and always willing to learn and help others.
   <a href="https://www.linkedin.com/in/evertonvanoni/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:evertonvanoni1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/verto.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://vertocode.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=world&logoColor=white" target="_blank"></a>
+  <a href="https://vertocode.com" target="_blank"><img src="https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=world&logoColor=white" target="_blank"></a>
 </div>
 
 ## Main skills 🛠
