@@ -2,11 +2,11 @@
 
 #### I'm Front End Developer since 2021.
 
-I love a very strong coffee and I need music to program, even you can tell me.
+I love a very strong coffee and I need music to program, if you've some recommendation feel free to send me!
 
 I am a curious person and always willing to learn and help others.
 
-When I've some time, I've been writing materials about programmin on my [blog](https://vertocode.com/blog), feel free to check it out!
+When I've some time, I've been writing materials about programming on my [blog](https://vertocode.com/blog), feel free to check it out.
 
 >
 > "Ideas don't come out fully formed. They only become clear as you work on them. You just have to get started."
