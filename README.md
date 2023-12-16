@@ -1,13 +1,12 @@
-# Hello, I'm Everton Vanoni 👨‍💻
+# [Hello, I'm Everton Vanoni](https://vertocode.com) 👨‍💻
 
-#### I'm Front End Developer, QA Engineer and technology lover ❤
+#### I'm Front End Developer since 2021.
 
 I love a very strong coffee and I need music to program, even you can tell me.
 
 I am a curious person and always willing to learn and help others.
 
-I started writing some programming materials on my blog, check it out :D
-https://blog.vertocode.com
+When I've some time, I've been writing materials about programmin on my [blog](https://vertocode.com/blog), feel free to check it out!
 
 >
 > "Ideas don't come out fully formed. They only become clear as you work on them. You just have to get started."
