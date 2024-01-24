@@ -22,7 +22,10 @@ When I've some time, I've been writing materials about programming on my [blog](
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="VUE.JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="VUE.JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="VUE.JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nuxtjs/nuxtjs-original.svg">
+  <img align="center" alt="VUE.JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="VUE.JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="GIT" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="CYPRESS" height="40" width="50" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/217/square_480/Cypress_Logomark_Color_Light_BG.png">
  </div>
